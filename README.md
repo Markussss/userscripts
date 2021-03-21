@@ -6,7 +6,7 @@ I enjoy creating userscripts in order to improve my user experience when using w
 
 ### Nordea Investor Improvements
 
-[Source](nordea-investor.user.js) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@master/nordea-investor.user.js)
+[Source](nordea-investor.user.js) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@nordea-investor-1.0.0/nordea-investor.user.js)
 
 Currently requires some special setup of the main page to be useful:
 
@@ -32,12 +32,12 @@ Currently requires some special setup of the main page to be useful:
 
 ### Flip video
 
-[Source](flip-video.user.css) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@master/flip-video.user.css)
+[Source](flip-video.user.css) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@flip-video-1.0.0/flip-video.user.css)
 
 Turn on to flip any video on the page. Quite useful when you find that a video has been flipped, and you want to watch the original.
 
 ### Resize video
 
-[Source](resize-video.user.css) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@master/resize-video.user.css)
+[Source](resize-video.user.css) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@resize-video-1.0.0/resize-video.user.css)
 
 Resizes videos that originally had a 4:3 aspect ratio and were stretched out to a 16:9 aspect ratio back to the original 4:3 aspect ratio. Not very common, but very useful when you want to watch that old video clip.
