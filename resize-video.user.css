@@ -2,7 +2,7 @@
 ==UserCSS==
 @name          Resize video
 @description   Resizes videos that originally had a 4:3 aspect ratio and were stretched out to a 16:9 aspect ratio back to the original 4:3 aspect ratio.
-@version       1.0.0
+@version       1.0.2
 @include       *
 @downloadURL   https://cdn.jsdelivr.net/gh/Markussss/userscripts@master/resize-video.user.css
 @updateURL     https://cdn.jsdelivr.net/gh/Markussss/userscripts@master/resize-video.user.css
