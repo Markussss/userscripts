@@ -34,7 +34,7 @@ Currently requires some special setup of the main page to be useful:
 
 [Source](flip-video.user.css) | [Install](https://cdn.jsdelivr.net/gh/Markussss/userscripts@flip-video-1.0.0/flip-video.user.css)
 
-Turn on to flip any video on the page. Quite useful when you find that a video has been flipped, and you want to watch the original.
+Flip videos on the page. Quite useful when you find that a video has been flipped.
 
 ### Resize video
 
