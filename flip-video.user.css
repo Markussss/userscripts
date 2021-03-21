@@ -1,0 +1,10 @@
+/*
+==UserCSS==
+@name       Flip video
+@version    1.0
+==/UserCSS==
+*/
+
+video {
+  transform: scaleX(-1) !important;
+}
