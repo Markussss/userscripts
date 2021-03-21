@@ -4,7 +4,10 @@ I enjoy creating userscripts in order to improve my user experience when using w
 
 ## Userscripts
 
-### [Nordea Investor Improvements](nordea-investor.user.js)
+### Nordea Investor Improvements
+
+- [Source](nordea-investor.user.js)
+- [Install](raw/master/nordea-investor.user.js)
 
 Currently requires some special setup of the main page to be useful:
 
@@ -28,10 +31,16 @@ Currently requires some special setup of the main page to be useful:
 
 ## Userstyles
 
-### [Flip video](flip-video.user.css)
+### Flip video
+
+- [Source](flip-video.user.css)
+- [Install](raw/master/flip-video.user.css)
 
 Turn on to flip any video on the page. Quite useful when you find that a video has been flipped, and you want to watch the original.
 
-### [Resize video](resize-video.user.css)
+### Resize video
+
+- [Source](resize-video.user.css)
+- [Install](raw/master/resize-video.user.css)
 
 Resizes videos that originally had a 4:3 aspect ratio and were stretched out to a 16:9 aspect ratio back to the original 4:3 aspect ratio. Not very common, but very useful when you want to watch that old video clip.
