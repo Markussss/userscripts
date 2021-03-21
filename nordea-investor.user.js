@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Improve Nordea Investor
+// @name          Nordea Investor Improvements
 // @version       1.0.0
 // @grant         none
 // @include       https://investor.nordea.no/*
