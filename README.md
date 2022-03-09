@@ -1,6 +1,6 @@
 # Userscripts and Userstyles
 
-I enjoy creating userscripts in order to improve my user experience when using websites. My main browser is Firefox, and I use [FireMonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) as a userscript and userstyle manager. Most other browsers and userscript managers should work, as well, but these are the ones I use.
+I enjoy creating userscripts in order to improve my user experience when using websites. My main browser is Firefox, and I use [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) as a userscript manager and [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) as userstyle manager. Most other browsers and userscript managers should work, as well, but these are the ones I use.
 
 ## Userscripts
 
